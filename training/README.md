@@ -9,3 +9,7 @@ Readers are invited to engage at their own pace.
 - C1 Field Cases
 - C2 Templates
 - C3 Naming Convention
+- C4 Guides
+- S  Decision Records
+- S  System Support
+
