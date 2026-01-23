@@ -125,3 +125,14 @@ Nếu họ nói:
 
 > *“Chúng ta không huấn luyện tai nghe nhạc.  
 > Chúng ta huấn luyện khả năng ở lại với sự khác biệt.”*
+
+---
+
+## 🎥 Tư liệu minh họa
+
+Video ghi nhận một phiên co-listening thực tế  
+(không dùng làm bài giảng, không giải thích):
+
+▶️ https://youtu.be/9t1Cu0P6LBM
+
+— Mana Lab

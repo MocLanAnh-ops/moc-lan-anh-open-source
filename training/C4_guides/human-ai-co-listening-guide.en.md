@@ -97,5 +97,11 @@ then the exercise has already worked.
 > True learning starts
 > when explanation is no longer required.
 
+🎥 Illustrative Documentation
+Video capturing an actual co-listening session
+(not used as a lecture, no explanation provided):
+
+▶️ https://youtu.be/9t1Cu0P6LBM
+
 — Mana Lab
 
