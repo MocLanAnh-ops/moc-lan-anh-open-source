@@ -26,13 +26,13 @@ $$1 - 6 + 15 - 20 + 15 - 6 + 1 = 0$$
 
 ## Language Versions
 
-- [English (full)](./Neuro-Linguistic-Data-Mining/README_EN.md)
-- [Français (complet)](./Neuro-Linguistic-Data-Mining/README_FR.md)
-- [Tiếng Việt (đầy đủ)](./Neuro-Linguistic-Data-Mining/README_VI.md)
+- [English (full)](Neuro_Linguistic_Data_Mining/README_EN.md)
+- [Français (complet)](Neuro_Linguistic_Data_Mining/README_FR.md)
+- [Tiếng Việt (đầy đủ)](Neuro_Linguistic_Data_Mining/README_VI.md)
 
 ## Glossary
 
-For terminology in 3 languages (EN/FR/VI), see: [shared/glossary.md](./Neuro-Linguistic-Data-Mining/shared/glossary.md)
+For terminology in 3 languages (EN/FR/VI), see: [shared/glossary.md](Neuro_Linguistic_Data_Mining/shared/glossary.md)
 
 ## Status
 
